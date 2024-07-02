@@ -1,7 +1,6 @@
-import hashlib  # For password hashing
-import uuid  # For generating unique user IDs
+import hashlib  
+import uuid  
 
-# Database simulation (in-memory storage for demonstration)
 users = []
 
 class User:
